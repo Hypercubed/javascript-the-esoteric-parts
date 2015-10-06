@@ -16,7 +16,18 @@
 
 ## Introduction
 
+## The `new` and `this` keywords
+
+- [Crockford on JavaScript](https://www.youtube.com/watch?v=ya4UHuXNygM&t=50m23s)
+
 ## The ES6 `class`
+
+### Anti-class
+
+- [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf) by Eric Elliott
+- [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) by Eric Elliott
+
+### Resources
 
 - [Not Awesome: ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes)
 
@@ -39,10 +50,9 @@ Please read to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[Content Title](content link)`
+- Use the following format: `[Content Title](content link)` and `by Author Name` where approprate.
 - Choose corresponding section (and subsection) for your suggestion. 
-- New sections are welcome.
-- The pull request and commit should have clear and useful titles.
+- New sections (and subsection) are welcome.
 - Try to keep this resource objective but feel free to link to your subjective resource.
 - Try to link to primary sources instead of collections.
 
