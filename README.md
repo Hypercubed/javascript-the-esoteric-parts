@@ -42,7 +42,7 @@ ES6 introduced the `class` keyword.  ES6 classes are syntactical sugar over prot
 
 ## Semicolons
 
-JavaScript has a feature called Automatic semicolon insertion (ASI).  With ASI, you are able to omit certain semi-colons.  Use of this feature is controversial.  After the `class` keyword, ASI may be JavaScript's most controversial syntactic feature.
+JavaScript has a feature called Automatic semicolon insertion (ASI).  With ASI, you are able to omit certain semicolons.  Use of this feature is controversial.  After the `class` keyword, ASI may be JavaScript's most controversial syntactic feature.
 
 - [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) by Isaac Z. Schlueter
 - [JavaScript Semicolon Insertion, Everything you need to know](http://inimino.org/~inimino/blog/javascript_semicolons)
@@ -50,7 +50,7 @@ JavaScript has a feature called Automatic semicolon insertion (ASI).  With ASI, 
 
 ## Semantic Versioning
 
-Semantic Versioning, while not a feature of JavaScript, is a vital to JavaScript package management and is often misunderstood.
+Semantic Versioning, while not a feature of JavaScript, is vital to JavaScript package management and is often misunderstood.
 
 - [We fail to follow SemVer – and why it needn’t matter](https://www.youtube.com/watch?v=tc2UgG5L7WM&index=6&list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm) by Stephan Bönnemann at JSConf Budapest 2015
 - [Semantic Versioning: Why You Should Be Using it](http://www.sitepoint.com/semantic-versioning-why-you-should-using/)
