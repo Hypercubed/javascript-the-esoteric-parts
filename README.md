@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - Introduction
-- Prototypical inheritance
+- Classical vs. Prototypal inheritance
 - The `new` and `this` keywords
 - The ES6 `class`
 - Semicolons
@@ -16,13 +16,17 @@
 
 ## Introduction
 
+## Classical vs. Prototypal inheritance
+
+- [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html)
+- [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters/)
+- [Benefits of prototypal inheritance over classical?](http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical)
+
 ## The `new` and `this` keywords
 
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=ya4UHuXNygM&t=50m23s)
 
 ## The ES6 `class`
-
-### Anti-class
 
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf) by Eric Elliott
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) by Eric Elliott
