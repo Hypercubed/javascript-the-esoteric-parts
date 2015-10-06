@@ -26,6 +26,8 @@ JavaScript uses prototypal inheritance instead of classical inheritance.  Knowin
 
 ## The `new` and `this` keywords
 
+Controversy over how to do class-like inheritance in JavaScript existed long before the ES6 `class` keyword.
+
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=ya4UHuXNygM&t=50m23s)
 
 ## The ES6 `class`
