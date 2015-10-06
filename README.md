@@ -26,14 +26,9 @@
 
 - [How to Fix the ES6 `class` keyword](https://medium.com/javascript-scene/how-to-fix-the-es6-class-keyword-2d42bb3f4caf) by Eric Elliott
 - [The Two Pillars of JavaScript](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) by Eric Elliott
-
-### Pro-class
-
-- [Crockford's Wager](https://medium.com/@hypercubed/ok-let-me-play-devils-advocate-for-a-second-and-introduce-crockford-s-wager-f8e051cc52a) by Jayson Harshbarger
-
-### Resources
-
-- [Not Awesome: ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes)
+  - [Crockford's Wager](https://medium.com/@hypercubed/ok-let-me-play-devils-advocate-for-a-second-and-introduce-crockford-s-wager-f8e051cc52a) comment by Jayson Harshbarger
+- [Not Awesome: ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes) by joshburgess
+  - [comment](https://www.reddit.com/r/javascript/comments/3nkycz/not_awesome_es6_classes_a_curated_list_of/) by rauschma
 
 ## Semicolons
 
