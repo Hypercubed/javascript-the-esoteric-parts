@@ -42,6 +42,7 @@ Classical Inheritance Fans](https://medium.com/javascript-scene/a-simple-challen
   - [comment](https://medium.com/@rauschma/i-would-never-argue-that-es6-classes-are-clearly-a-better-choice-than-composition-modules-or-891e462da85b) by Axel Rauschmayer
 - [Not Awesome: ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes) by joshburgess
   - [comment](https://www.reddit.com/r/javascript/comments/3nkycz/not_awesome_es6_classes_a_curated_list_of/) by rauschma
+- [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4) by Dan Abramov
 
 ## Semicolons
 
