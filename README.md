@@ -58,6 +58,8 @@ Semantic Versioning, while not a feature of JavaScript, is vital to JavaScript p
 
 - [We fail to follow SemVer – and why it needn’t matter](https://www.youtube.com/watch?v=tc2UgG5L7WM&index=6&list=PLFZ5NyC0xHDaaTy6tY9p0C0jd_rRRl5Zm) by Stephan Bönnemann at JSConf Budapest 2015
 - [Semantic Versioning: Why You Should Be Using it](http://www.sitepoint.com/semantic-versioning-why-you-should-using/)
+- [Pragmatic Semantic Versioning](http://ponyfoo.com/articles/semver) by Nicolas Bevacqua
+- [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277) by Kent C. Dodds
 
 ## Observer Patterns
 
