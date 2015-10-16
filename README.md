@@ -24,11 +24,18 @@ JavaScript uses prototypal inheritance instead of classical inheritance.  Knowin
 - [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters/)
 - [Benefits of prototypal inheritance over classical?](http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical)
 
-## The `new` and `this` keywords
+## Psudoclassical Inheritance (The `new` and `this` keywords)
 
 Controversy over how to do class-like inheritance in JavaScript existed long before the ES6 `class` keyword.
 
 - [Crockford on JavaScript](https://www.youtube.com/watch?v=ya4UHuXNygM&t=50m23s)
+
+## Object Composition
+
+- [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed) by Eric Elliott
+  - [comment](https://medium.com/@jeffm712/every-industry-has-its-own-jargon-words-that-have-special-and-technical-meaning-beyond-what-you-1cc05d519ff9) by Jeff M
+    - [Composition vs Composite Pattern](https://medium.com/@_ericelliott/composition-vs-composite-pattern-842133706472) by Eric Elliott
+      - [comment](https://medium.com/@jeffm712/nope-the-definition-i-m-referring-to-is-indeed-for-composition-707e4499e85a) by  Jeff M
 
 ## The ES6 `class`
 
