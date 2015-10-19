@@ -32,6 +32,8 @@ Controversy over how to do class-like inheritance in JavaScript existed long bef
 
 ## Object Composition
 
+- [Composition over Inheritance](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205) by Mattias Petter Johansson
+  - [comment](https://www.reddit.com/r/programming/comments/3m64ns/composition_over_inheritance/cvccr2u)
 - [The Open Minded Explorer’s Guide to Object Composition](https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed) by Eric Elliott
   - [comment](https://medium.com/@jeffm712/every-industry-has-its-own-jargon-words-that-have-special-and-technical-meaning-beyond-what-you-1cc05d519ff9) by Jeff M
     - [Composition vs Composite Pattern](https://medium.com/@_ericelliott/composition-vs-composite-pattern-842133706472) by Eric Elliott
