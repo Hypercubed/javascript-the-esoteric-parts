@@ -10,6 +10,7 @@
 - Tabs vs Spaces
 - Semantic Versioning
 - Observer Patterns
+- Constants and Immutability
 - Frameworks vs. Vanilla
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
@@ -73,6 +74,10 @@ Semantic Versioning, while not a feature of JavaScript, is vital to JavaScript p
 ## Observer Patterns
 
 - [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
+
+## Constants and Immutability
+
+- [Constantly Confusing ‘const’](http://blog.getify.com/constantly-confusing-const/) by getify
 
 # Contribution Guidelines
 
