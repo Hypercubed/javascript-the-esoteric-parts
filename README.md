@@ -64,6 +64,7 @@ JavaScript has a feature called Automatic semicolon insertion (ASI).  With ASI, 
 - [An Open Letter to JavaScript Leaders Regarding Semicolons](http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding) by Isaac Z. Schlueter
 - [JavaScript Semicolon Insertion, Everything you need to know](http://inimino.org/~inimino/blog/javascript_semicolons)
 - [Understanding automatic semi-colon insertion in JavaScript](http://jamesallardice.com/understanding-automatic-semi-colon-insertion-in-javascript/)
+- [Well, actually; Not all semicolons…](http://blog.getify.com/not-all-semicolons/) by getify
 
 ## Semantic Versioning
 
