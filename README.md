@@ -4,14 +4,16 @@
 
 - Introduction
 - Classical vs. Prototypal inheritance
-- The `new` and `this` keywords
+- Psudoclassical Inheritance
+- Object Composition
 - The ES6 `class`
 - Semicolons
-- Tabs vs Spaces
+- *Tabs vs Spaces*
 - Semantic Versioning
+- Arrow function syntax
 - Observer Patterns
 - Constants and Immutability
-- Frameworks vs. Vanilla
+- *Frameworks vs. Vanilla*
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -53,6 +55,7 @@ Classical Inheritance Fans](https://medium.com/javascript-scene/a-simple-challen
 - [Not Awesome: ES6 Classes](https://github.com/joshburgess/not-awesome-es6-classes) by joshburgess
   - [comment](https://www.reddit.com/r/javascript/comments/3nkycz/not_awesome_es6_classes_a_curated_list_of/) by rauschma
 - [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4) by Dan Abramov
+- [ES6 class](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/apA.md) by getify
 
 ## Semicolons
 
@@ -70,6 +73,10 @@ Semantic Versioning, while not a feature of JavaScript, is vital to JavaScript p
 - [Semantic Versioning: Why You Should Be Using it](http://www.sitepoint.com/semantic-versioning-why-you-should-using/)
 - [Pragmatic Semantic Versioning](http://ponyfoo.com/articles/semver) by Nicolas Bevacqua
 - [Why semver ranges are literally the worst…](https://medium.com/@kentcdodds/why-semver-ranges-are-literally-the-worst-817cdcb09277) by Kent C. Dodds
+
+## Arrow function syntax
+
+- [Arrow This](http://blog.getify.com/arrow-this/) by getify
 
 ## Observer Patterns
 
